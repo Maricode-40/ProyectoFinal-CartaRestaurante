@@ -34,13 +34,13 @@ He utliizado bootstrap para el menú de navegación, y para los iconos FontAweso
 ## Vistas
 
 Home
-<img src="img/resmex.jpeg">
+<img src="img/resmex copy.jpeg">
 
 Restaurante vistas y comida para llevar
-<img src="img/restaurante-mex.jpeg">
+<img src="img/restaurante-mex copy.jpeg">
 
 Menu Salado
-<img src="img/enchilada.png">
+<img src="img/enchilada copy.png">
 
 ## Licencia
 
