@@ -8,6 +8,7 @@
 **- Título del proyecto:** Proyecto HTML, CSS, Bootstrap, FontAwesome + Responsive design.
 
 <details>
+
   <summary>Tabla de Contenidos </summary>
   <ol>
   <li><a href="#objetivo-🎯">Objetivo</a></li>
